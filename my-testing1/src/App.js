@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="App">
       <div className="App" id="separate-margin">
-                <h1>What would you like to learn today?</h1>
+                <h1>What would you like to learn today in this wonderlful day?</h1>
                 <div className="this-container"> {/*This is a conteiner to hold the courses cards*/}
 
                     {/*This is one card*/}
